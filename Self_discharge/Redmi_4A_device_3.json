@@ -1,0 +1,715 @@
+[{
+		{"Timestamp" : "Feb 23 13:04:27 GMT+03:00 2020",
+		"Level": 100,
+		"Voltage": 4333,
+		"Temperature": 29.0,
+		"Minutes from start": 0
+	},
+	{
+		{"Timestamp" : "Feb 23 13:09:27 GMT+03:00 2020",
+		"Level": 100,
+		"Voltage": 4321,
+		"Temperature": 29.0,
+		"Minutes from start": 5
+	},
+	{
+		{"Timestamp" : "Feb 23 13:14:27 GMT+03:00 2020",
+		"Level": 100,
+		"Voltage": 4310,
+		"Temperature": 30.0,
+		"Minutes from start": 10
+	},
+	{
+		{"Timestamp" : "Feb 23 13:19:27 GMT+03:00 2020",
+		"Level": 100,
+		"Voltage": 4296,
+		"Temperature": 30.0,
+		"Minutes from start": 15
+	},
+	{
+		{"Timestamp" : "Feb 23 13:24:27 GMT+03:00 2020",
+		"Level": 99,
+		"Voltage": 4287,
+		"Temperature": 31.0,
+		"Minutes from start": 20
+	},
+	{
+		{"Timestamp" : "Feb 23 13:29:27 GMT+03:00 2020",
+		"Level": 98,
+		"Voltage": 4278,
+		"Temperature": 31.0,
+		"Minutes from start": 25
+	},
+	{
+		{"Timestamp" : "Feb 23 13:34:27 GMT+03:00 2020",
+		"Level": 97,
+		"Voltage": 4271,
+		"Temperature": 31.0,
+		"Minutes from start": 30
+	},
+	{
+		{"Timestamp" : "Feb 23 13:39:27 GMT+03:00 2020",
+		"Level": 96,
+		"Voltage": 4261,
+		"Temperature": 31.0,
+		"Minutes from start": 35
+	},
+	{
+		{"Timestamp" : "Feb 23 13:44:27 GMT+03:00 2020",
+		"Level": 95,
+		"Voltage": 4251,
+		"Temperature": 31.0,
+		"Minutes from start": 40
+	},
+	{
+		{"Timestamp" : "Feb 23 13:49:27 GMT+03:00 2020",
+		"Level": 94,
+		"Voltage": 4243,
+		"Temperature": 32.0,
+		"Minutes from start": 45
+	},
+	{
+		{"Timestamp" : "Feb 23 13:54:27 GMT+03:00 2020",
+		"Level": 93,
+		"Voltage": 4233,
+		"Temperature": 32.0,
+		"Minutes from start": 50
+	},
+	{
+		{"Timestamp" : "Feb 23 13:59:27 GMT+03:00 2020",
+		"Level": 92,
+		"Voltage": 4224,
+		"Temperature": 32.0,
+		"Minutes from start": 55
+	},
+	{
+		{"Timestamp" : "Feb 23 14:04:27 GMT+03:00 2020",
+		"Level": 92,
+		"Voltage": 4216,
+		"Temperature": 32.0,
+		"Minutes from start": 60
+	},
+	{
+		{"Timestamp" : "Feb 23 14:09:27 GMT+03:00 2020",
+		"Level": 91,
+		"Voltage": 4206,
+		"Temperature": 32.0,
+		"Minutes from start": 65
+	},
+	{
+		{"Timestamp" : "Feb 23 14:14:27 GMT+03:00 2020",
+		"Level": 90,
+		"Voltage": 4196,
+		"Temperature": 32.0,
+		"Minutes from start": 70
+	},
+	{
+		{"Timestamp" : "Feb 23 14:19:27 GMT+03:00 2020",
+		"Level": 89,
+		"Voltage": 4184,
+		"Temperature": 32.0,
+		"Minutes from start": 75
+	},
+	{
+		{"Timestamp" : "Feb 23 14:24:27 GMT+03:00 2020",
+		"Level": 88,
+		"Voltage": 4157,
+		"Temperature": 32.0,
+		"Minutes from start": 80
+	},
+	{
+		{"Timestamp" : "Feb 23 14:29:27 GMT+03:00 2020",
+		"Level": 87,
+		"Voltage": 4148,
+		"Temperature": 32.0,
+		"Minutes from start": 85
+	},
+	{
+		{"Timestamp" : "Feb 23 14:34:27 GMT+03:00 2020",
+		"Level": 86,
+		"Voltage": 4154,
+		"Temperature": 32.0,
+		"Minutes from start": 90
+	},
+	{
+		{"Timestamp" : "Feb 23 14:39:27 GMT+03:00 2020",
+		"Level": 86,
+		"Voltage": 4148,
+		"Temperature": 32.0,
+		"Minutes from start": 95
+	},
+	{
+		{"Timestamp" : "Feb 23 14:44:27 GMT+03:00 2020",
+		"Level": 85,
+		"Voltage": 4137,
+		"Temperature": 32.0,
+		"Minutes from start": 100
+	},
+	{
+		{"Timestamp" : "Feb 23 14:49:27 GMT+03:00 2020",
+		"Level": 84,
+		"Voltage": 4127,
+		"Temperature": 32.0,
+		"Minutes from start": 105
+	},
+	{
+		{"Timestamp" : "Feb 23 14:54:27 GMT+03:00 2020",
+		"Level": 83,
+		"Voltage": 4117,
+		"Temperature": 32.0,
+		"Minutes from start": 110
+	},
+	{
+		{"Timestamp" : "Feb 23 14:59:27 GMT+03:00 2020",
+		"Level": 82,
+		"Voltage": 4109,
+		"Temperature": 32.0,
+		"Minutes from start": 115
+	},
+	{
+		{"Timestamp" : "Feb 23 15:04:27 GMT+03:00 2020",
+		"Level": 81,
+		"Voltage": 4100,
+		"Temperature": 32.0,
+		"Minutes from start": 120
+	},
+	{
+		{"Timestamp" : "Feb 23 15:09:27 GMT+03:00 2020",
+		"Level": 80,
+		"Voltage": 4091,
+		"Temperature": 32.0,
+		"Minutes from start": 125
+	},
+	{
+		{"Timestamp" : "Feb 23 15:14:27 GMT+03:00 2020",
+		"Level": 79,
+		"Voltage": 4066,
+		"Temperature": 33.0,
+		"Minutes from start": 130
+	},
+	{
+		{"Timestamp" : "Feb 23 15:19:27 GMT+03:00 2020",
+		"Level": 78,
+		"Voltage": 4071,
+		"Temperature": 33.0,
+		"Minutes from start": 135
+	},
+	{
+		{"Timestamp" : "Feb 23 15:24:27 GMT+03:00 2020",
+		"Level": 77,
+		"Voltage": 4061,
+		"Temperature": 33.0,
+		"Minutes from start": 140
+	},
+	{
+		{"Timestamp" : "Feb 23 15:29:27 GMT+03:00 2020",
+		"Level": 77,
+		"Voltage": 4043,
+		"Temperature": 33.0,
+		"Minutes from start": 145
+	},
+	{
+		{"Timestamp" : "Feb 23 15:34:27 GMT+03:00 2020",
+		"Level": 76,
+		"Voltage": 4043,
+		"Temperature": 33.0,
+		"Minutes from start": 150
+	},
+	{
+		{"Timestamp" : "Feb 23 15:39:27 GMT+03:00 2020",
+		"Level": 75,
+		"Voltage": 4031,
+		"Temperature": 33.0,
+		"Minutes from start": 155
+	},
+	{
+		{"Timestamp" : "Feb 23 15:44:27 GMT+03:00 2020",
+		"Level": 74,
+		"Voltage": 4024,
+		"Temperature": 33.0,
+		"Minutes from start": 160
+	},
+	{
+		{"Timestamp" : "Feb 23 15:49:27 GMT+03:00 2020",
+		"Level": 73,
+		"Voltage": 4012,
+		"Temperature": 33.0,
+		"Minutes from start": 165
+	},
+	{
+		{"Timestamp" : "Feb 23 15:54:27 GMT+03:00 2020",
+		"Level": 72,
+		"Voltage": 4003,
+		"Temperature": 33.0,
+		"Minutes from start": 170
+	},
+	{
+		{"Timestamp" : "Feb 23 15:59:27 GMT+03:00 2020",
+		"Level": 71,
+		"Voltage": 3994,
+		"Temperature": 33.0,
+		"Minutes from start": 175
+	},
+	{
+		{"Timestamp" : "Feb 23 16:04:27 GMT+03:00 2020",
+		"Level": 70,
+		"Voltage": 3981,
+		"Temperature": 33.0,
+		"Minutes from start": 180
+	},
+	{
+		{"Timestamp" : "Feb 23 16:09:27 GMT+03:00 2020",
+		"Level": 69,
+		"Voltage": 3973,
+		"Temperature": 33.0,
+		"Minutes from start": 185
+	},
+	{
+		{"Timestamp" : "Feb 23 16:14:27 GMT+03:00 2020",
+		"Level": 68,
+		"Voltage": 3961,
+		"Temperature": 33.0,
+		"Minutes from start": 190
+	},
+	{
+		{"Timestamp" : "Feb 23 16:19:27 GMT+03:00 2020",
+		"Level": 67,
+		"Voltage": 3948,
+		"Temperature": 33.0,
+		"Minutes from start": 195
+	},
+	{
+		{"Timestamp" : "Feb 23 16:24:27 GMT+03:00 2020",
+		"Level": 66,
+		"Voltage": 3943,
+		"Temperature": 34.0,
+		"Minutes from start": 200
+	},
+	{
+		{"Timestamp" : "Feb 23 16:29:27 GMT+03:00 2020",
+		"Level": 65,
+		"Voltage": 3932,
+		"Temperature": 34.0,
+		"Minutes from start": 205
+	},
+	{
+		{"Timestamp" : "Feb 23 16:34:27 GMT+03:00 2020",
+		"Level": 64,
+		"Voltage": 3927,
+		"Temperature": 34.0,
+		"Minutes from start": 210
+	},
+	{
+		{"Timestamp" : "Feb 23 16:39:27 GMT+03:00 2020",
+		"Level": 63,
+		"Voltage": 3917,
+		"Temperature": 34.0,
+		"Minutes from start": 215
+	},
+	{
+		{"Timestamp" : "Feb 23 16:44:27 GMT+03:00 2020",
+		"Level": 62,
+		"Voltage": 3910,
+		"Temperature": 34.0,
+		"Minutes from start": 220
+	},
+	{
+		{"Timestamp" : "Feb 23 16:49:27 GMT+03:00 2020",
+		"Level": 61,
+		"Voltage": 3902,
+		"Temperature": 33.0,
+		"Minutes from start": 225
+	},
+	{
+		{"Timestamp" : "Feb 23 16:54:27 GMT+03:00 2020",
+		"Level": 60,
+		"Voltage": 3894,
+		"Temperature": 33.0,
+		"Minutes from start": 230
+	},
+	{
+		{"Timestamp" : "Feb 23 16:59:27 GMT+03:00 2020",
+		"Level": 59,
+		"Voltage": 3882,
+		"Temperature": 33.0,
+		"Minutes from start": 235
+	},
+	{
+		{"Timestamp" : "Feb 23 17:04:27 GMT+03:00 2020",
+		"Level": 58,
+		"Voltage": 3876,
+		"Temperature": 33.0,
+		"Minutes from start": 240
+	},
+	{
+		{"Timestamp" : "Feb 23 17:09:27 GMT+03:00 2020",
+		"Level": 57,
+		"Voltage": 3868,
+		"Temperature": 33.0,
+		"Minutes from start": 245
+	},
+	{
+		{"Timestamp" : "Feb 23 17:14:27 GMT+03:00 2020",
+		"Level": 57,
+		"Voltage": 3855,
+		"Temperature": 33.0,
+		"Minutes from start": 250
+	},
+	{
+		{"Timestamp" : "Feb 23 17:19:27 GMT+03:00 2020",
+		"Level": 56,
+		"Voltage": 3849,
+		"Temperature": 33.0,
+		"Minutes from start": 255
+	},
+	{
+		{"Timestamp" : "Feb 23 17:24:27 GMT+03:00 2020",
+		"Level": 55,
+		"Voltage": 3839,
+		"Temperature": 33.0,
+		"Minutes from start": 260
+	},
+	{
+		{"Timestamp" : "Feb 23 17:29:27 GMT+03:00 2020",
+		"Level": 54,
+		"Voltage": 3832,
+		"Temperature": 33.0,
+		"Minutes from start": 265
+	},
+	{
+		{"Timestamp" : "Feb 23 17:34:27 GMT+03:00 2020",
+		"Level": 53,
+		"Voltage": 3823,
+		"Temperature": 33.0,
+		"Minutes from start": 270
+	},
+	{
+		{"Timestamp" : "Feb 23 17:39:27 GMT+03:00 2020",
+		"Level": 52,
+		"Voltage": 3819,
+		"Temperature": 33.0,
+		"Minutes from start": 275
+	},
+	{
+		{"Timestamp" : "Feb 23 17:44:27 GMT+03:00 2020",
+		"Level": 51,
+		"Voltage": 3812,
+		"Temperature": 33.0,
+		"Minutes from start": 280
+	},
+	{
+		{"Timestamp" : "Feb 23 17:49:27 GMT+03:00 2020",
+		"Level": 50,
+		"Voltage": 3802,
+		"Temperature": 33.0,
+		"Minutes from start": 285
+	},
+	{
+		{"Timestamp" : "Feb 23 17:54:27 GMT+03:00 2020",
+		"Level": 49,
+		"Voltage": 3779,
+		"Temperature": 33.0,
+		"Minutes from start": 290
+	},
+	{
+		{"Timestamp" : "Feb 23 17:59:27 GMT+03:00 2020",
+		"Level": 47,
+		"Voltage": 3792,
+		"Temperature": 33.0,
+		"Minutes from start": 295
+	},
+	{
+		{"Timestamp" : "Feb 23 18:04:27 GMT+03:00 2020",
+		"Level": 46,
+		"Voltage": 3789,
+		"Temperature": 33.0,
+		"Minutes from start": 300
+	},
+	{
+		{"Timestamp" : "Feb 23 18:09:27 GMT+03:00 2020",
+		"Level": 45,
+		"Voltage": 3772,
+		"Temperature": 33.0,
+		"Minutes from start": 305
+	},
+	{
+		{"Timestamp" : "Feb 23 18:14:27 GMT+03:00 2020",
+		"Level": 44,
+		"Voltage": 3776,
+		"Temperature": 33.0,
+		"Minutes from start": 310
+	},
+	{
+		{"Timestamp" : "Feb 23 18:19:27 GMT+03:00 2020",
+		"Level": 43,
+		"Voltage": 3769,
+		"Temperature": 33.0,
+		"Minutes from start": 315
+	},
+	{
+		{"Timestamp" : "Feb 23 18:24:27 GMT+03:00 2020",
+		"Level": 42,
+		"Voltage": 3768,
+		"Temperature": 33.0,
+		"Minutes from start": 320
+	},
+	{
+		{"Timestamp" : "Feb 23 18:29:27 GMT+03:00 2020",
+		"Level": 41,
+		"Voltage": 3765,
+		"Temperature": 33.0,
+		"Minutes from start": 325
+	},
+	{
+		{"Timestamp" : "Feb 23 18:34:27 GMT+03:00 2020",
+		"Level": 40,
+		"Voltage": 3759,
+		"Temperature": 33.0,
+		"Minutes from start": 330
+	},
+	{
+		{"Timestamp" : "Feb 23 18:39:27 GMT+03:00 2020",
+		"Level": 39,
+		"Voltage": 3754,
+		"Temperature": 33.0,
+		"Minutes from start": 335
+	},
+	{
+		{"Timestamp" : "Feb 23 18:44:27 GMT+03:00 2020",
+		"Level": 37,
+		"Voltage": 3750,
+		"Temperature": 33.0,
+		"Minutes from start": 340
+	},
+	{
+		{"Timestamp" : "Feb 23 18:49:27 GMT+03:00 2020",
+		"Level": 36,
+		"Voltage": 3743,
+		"Temperature": 33.0,
+		"Minutes from start": 345
+	},
+	{
+		{"Timestamp" : "Feb 23 18:54:27 GMT+03:00 2020",
+		"Level": 35,
+		"Voltage": 3742,
+		"Temperature": 33.0,
+		"Minutes from start": 350
+	},
+	{
+		{"Timestamp" : "Feb 23 18:59:27 GMT+03:00 2020",
+		"Level": 34,
+		"Voltage": 3718,
+		"Temperature": 33.0,
+		"Minutes from start": 355
+	},
+	{
+		{"Timestamp" : "Feb 23 19:04:27 GMT+03:00 2020",
+		"Level": 33,
+		"Voltage": 3715,
+		"Temperature": 33.0,
+		"Minutes from start": 360
+	},
+	{
+		{"Timestamp" : "Feb 23 19:09:27 GMT+03:00 2020",
+		"Level": 31,
+		"Voltage": 3728,
+		"Temperature": 33.0,
+		"Minutes from start": 365
+	},
+	{
+		{"Timestamp" : "Feb 23 19:14:27 GMT+03:00 2020",
+		"Level": 30,
+		"Voltage": 3708,
+		"Temperature": 33.0,
+		"Minutes from start": 370
+	},
+	{
+		{"Timestamp" : "Feb 23 19:19:27 GMT+03:00 2020",
+		"Level": 29,
+		"Voltage": 3722,
+		"Temperature": 33.0,
+		"Minutes from start": 375
+	},
+	{
+		{"Timestamp" : "Feb 23 19:24:27 GMT+03:00 2020",
+		"Level": 28,
+		"Voltage": 3719,
+		"Temperature": 33.0,
+		"Minutes from start": 380
+	},
+	{
+		{"Timestamp" : "Feb 23 19:29:27 GMT+03:00 2020",
+		"Level": 26,
+		"Voltage": 3719,
+		"Temperature": 33.0,
+		"Minutes from start": 385
+	},
+	{
+		{"Timestamp" : "Feb 23 19:34:27 GMT+03:00 2020",
+		"Level": 25,
+		"Voltage": 3716,
+		"Temperature": 33.0,
+		"Minutes from start": 390
+	},
+	{
+		{"Timestamp" : "Feb 23 19:39:27 GMT+03:00 2020",
+		"Level": 25,
+		"Voltage": 3715,
+		"Temperature": 33.0,
+		"Minutes from start": 395
+	},
+	{
+		{"Timestamp" : "Feb 23 19:44:27 GMT+03:00 2020",
+		"Level": 24,
+		"Voltage": 3712,
+		"Temperature": 33.0,
+		"Minutes from start": 400
+	},
+	{
+		{"Timestamp" : "Feb 23 19:49:27 GMT+03:00 2020",
+		"Level": 23,
+		"Voltage": 3706,
+		"Temperature": 33.0,
+		"Minutes from start": 405
+	},
+	{
+		{"Timestamp" : "Feb 23 19:54:27 GMT+03:00 2020",
+		"Level": 22,
+		"Voltage": 3701,
+		"Temperature": 32.0,
+		"Minutes from start": 410
+	},
+	{
+		{"Timestamp" : "Feb 23 19:59:27 GMT+03:00 2020",
+		"Level": 21,
+		"Voltage": 3703,
+		"Temperature": 32.0,
+		"Minutes from start": 415
+	},
+	{
+		{"Timestamp" : "Feb 23 20:04:27 GMT+03:00 2020",
+		"Level": 20,
+		"Voltage": 3700,
+		"Temperature": 32.0,
+		"Minutes from start": 420
+	},
+	{
+		{"Timestamp" : "Feb 23 20:09:27 GMT+03:00 2020",
+		"Level": 20,
+		"Voltage": 3698,
+		"Temperature": 32.0,
+		"Minutes from start": 425
+	},
+	{
+		{"Timestamp" : "Feb 23 20:14:27 GMT+03:00 2020",
+		"Level": 19,
+		"Voltage": 3694,
+		"Temperature": 32.0,
+		"Minutes from start": 430
+	},
+	{
+		{"Timestamp" : "Feb 23 20:19:27 GMT+03:00 2020",
+		"Level": 18,
+		"Voltage": 3688,
+		"Temperature": 32.0,
+		"Minutes from start": 435
+	},
+	{
+		{"Timestamp" : "Feb 23 20:24:27 GMT+03:00 2020",
+		"Level": 17,
+		"Voltage": 3686,
+		"Temperature": 33.0,
+		"Minutes from start": 440
+	},
+	{
+		{"Timestamp" : "Feb 23 20:29:27 GMT+03:00 2020",
+		"Level": 16,
+		"Voltage": 3682,
+		"Temperature": 33.0,
+		"Minutes from start": 445
+	},
+	{
+		{"Timestamp" : "Feb 23 20:34:27 GMT+03:00 2020",
+		"Level": 15,
+		"Voltage": 3677,
+		"Temperature": 33.0,
+		"Minutes from start": 450
+	},
+	{
+		{"Timestamp" : "Feb 23 20:39:27 GMT+03:00 2020",
+		"Level": 14,
+		"Voltage": 3672,
+		"Temperature": 33.0,
+		"Minutes from start": 455
+	},
+	{
+		{"Timestamp" : "Feb 23 20:44:27 GMT+03:00 2020",
+		"Level": 13,
+		"Voltage": 3667,
+		"Temperature": 33.0,
+		"Minutes from start": 460
+	},
+	{
+		{"Timestamp" : "Feb 23 20:49:27 GMT+03:00 2020",
+		"Level": 12,
+		"Voltage": 3662,
+		"Temperature": 33.0,
+		"Minutes from start": 465
+	},
+	{
+		{"Timestamp" : "Feb 23 20:54:27 GMT+03:00 2020",
+		"Level": 11,
+		"Voltage": 3656,
+		"Temperature": 33.0,
+		"Minutes from start": 470
+	},
+	{
+		{"Timestamp" : "Feb 23 20:59:27 GMT+03:00 2020",
+		"Level": 10,
+		"Voltage": 3649,
+		"Temperature": 33.0,
+		"Minutes from start": 475
+	},
+	{
+		{"Timestamp" : "Feb 23 21:04:27 GMT+03:00 2020",
+		"Level": 9,
+		"Voltage": 3641,
+		"Temperature": 33.0,
+		"Minutes from start": 480
+	},
+	{
+		{"Timestamp" : "Feb 23 21:09:27 GMT+03:00 2020",
+		"Level": 8,
+		"Voltage": 3632,
+		"Temperature": 33.0,
+		"Minutes from start": 485
+	},
+	{
+		{"Timestamp" : "Feb 23 21:14:27 GMT+03:00 2020",
+		"Level": 7,
+		"Voltage": 3618,
+		"Temperature": 33.0,
+		"Minutes from start": 490
+	},
+	{
+		{"Timestamp" : "Feb 23 21:19:27 GMT+03:00 2020",
+		"Level": 5,
+		"Voltage": 3609,
+		"Temperature": 33.0,
+		"Minutes from start": 495
+	},
+	{
+		{"Timestamp" : "Feb 23 21:24:27 GMT+03:00 2020",
+		"Level": 4,
+		"Voltage": 3598,
+		"Temperature": 33.0,
+		"Minutes from start": 500
+	},
+	{
+		{"Timestamp" : "Feb 23 21:29:27 GMT+03:00 2020",
+		"Level": 3,
+		"Voltage": 3588,
+		"Temperature": 33.0,
+		"Minutes from start": 505
+	}
+]
