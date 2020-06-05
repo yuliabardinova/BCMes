@@ -1,4 +1,53 @@
 [{
+		"Timestamp": "Jan 04 18:50:44 GMT+03:00 2020",
+		"Level": 100,
+		"Voltage": 4246,
+		"Temperature": 24.0,
+		"Minutes from start": 0
+	},
+	{
+		"Timestamp": "Jan 04 18:55:44 GMT+03:00 2020",
+		"Level": 99,
+		"Voltage": 4268,
+		"Temperature": 25.7,
+		"Minutes from start": 5
+	},
+	{
+		"Timestamp": "Jan 04 19:00:44 GMT+03:00 2020",
+		"Level": 98,
+		"Voltage": 4246,
+		"Temperature": 31.0,
+		"Minutes from start": 10
+	},
+	{
+		"Timestamp": "Jan 04 19:05:44 GMT+03:00 2020",
+		"Level": 97,
+		"Voltage": 4240,
+		"Temperature": 31.0,
+		"Minutes from start": 15
+	},
+	{
+		"Timestamp": "Jan 04 19:10:44 GMT+03:00 2020",
+		"Level": 96,
+		"Voltage": 4221,
+		"Temperature": 31.1,
+		"Minutes from start": 20
+	},
+	{
+			"Timestamp": "Jan 04 19:15:44 GMT+03:00 2020",
+			"Level": 95,
+			"Voltage": 4212,
+			"Temperature": 31.2,
+			"Minutes from start": 25
+		},
+		{
+			"Timestamp": "Jan 04 19:20:44 GMT+03:00 2020",
+			"Level": 94,
+			"Voltage": 4192,
+			"Temperature": 31.3,
+			"Minutes from start": 30
+		},
+	{
 		"Timestamp": "Jan 04 19:25:44 GMT+03:00 2020",
 		"Level": 94,
 		"Voltage": 4181,
@@ -29,14 +78,14 @@
 	{
 		"Timestamp": "Jan 04 19:45:44 GMT+03:00 2020",
 		"Level": 90,
-		"Voltage": 4141,
+		"Voltage": 4100,
 		"Temperature": 31.7,
 		"Minutes from start": 55
 	},
 	{
 		"Timestamp": "Jan 04 19:50:44 GMT+03:00 2020",
 		"Level": 89,
-		"Voltage": 4138,
+		"Voltage": 4115,
 		"Temperature": 31.7,
 		"Minutes from start": 60
 	},
